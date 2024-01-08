@@ -13,3 +13,4 @@ env__/
 app/db.sqlite3
 *.iml
 piplines_config.yml
+.idea/
